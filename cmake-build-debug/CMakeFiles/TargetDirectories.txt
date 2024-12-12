@@ -1,0 +1,3 @@
+D:/3. My Project/C++/Quera/Tiime/cmake-build-debug/CMakeFiles/Tiime.dir
+D:/3. My Project/C++/Quera/Tiime/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3. My Project/C++/Quera/Tiime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
